@@ -1,3 +1,5 @@
+## Introduction
+
 Market making is a fundamental trading problem in which
 an agent continually quotes two-sided markets for securities, providing
 bids and asks that he is willing to trade. Market makers provide liquidity
